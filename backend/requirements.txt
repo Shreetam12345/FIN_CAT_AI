@@ -1,0 +1,9 @@
+SQLAlchemy
+psycopg2-binary
+alembic
+dotenv
+sentence-transformers
+scikit-learn
+joblib
+pandas
+openpyxl
